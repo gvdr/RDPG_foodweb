@@ -20,3 +20,14 @@ All the R code used for the paper is in "Code" and the raw data in "Data".
 I am currently working to transform the code in something more nice and pretty,
 but for the moment is offered as it is. If you have any question about how to
 us it, please do not hesitate to ask!
+
+##Citation:
+```
+@article{dalla2015exploring,
+  title={Exploring the evolutionary signature of food webs’ backbones using functional traits},
+  author={Dalla Riva, Giulio V and Stouffer, Daniel B},
+  journal={Oikos},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+```
